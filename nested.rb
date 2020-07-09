@@ -57,7 +57,7 @@ def dennis_ritchies_language
       }
     }
     
-    puts
+    puts programmer_hash[:dennis_ritchie]
 
 end
 
