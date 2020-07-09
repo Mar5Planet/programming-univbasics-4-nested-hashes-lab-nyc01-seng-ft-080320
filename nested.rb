@@ -109,7 +109,7 @@ def changing_alan
         :languages => ["C"]
       }
     }
-  puts
+  puts programmer_hash
 end
 
 def adding_to_dennis
